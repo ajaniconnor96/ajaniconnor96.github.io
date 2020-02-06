@@ -31,7 +31,7 @@
     //////////////////////////////////////////////////////////////////
     
     // TODO 2 - Variable declarations 
-    
+        var positionX = 0;
 
     
     /* 
@@ -40,7 +40,7 @@
     turn it around! 
     */
     function update() {
-        
+       moveBoxTo(boardWidth) 
 
     };
 
